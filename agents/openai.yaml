@@ -1,0 +1,4 @@
+interface:
+  display_name: "42CF"
+  short_description: "Alias for CFMail deploy pipeline"
+  default_prompt: "Run the CFMail deploy pipeline (42 default) with one-time confirmation and full gate checks."
